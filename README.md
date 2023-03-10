@@ -1,2 +1,3 @@
-# ecilos-unity-assets-vehicles
+# Vehicles assets
+
 Unity vehicles assets for Ecilos metaverse project
